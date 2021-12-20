@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"Contact me through:"</b></h4>
+  <h4 align="center"><b>"Change the world by being yourself"</b></h4>
 </p>
 
 <p align="center">
@@ -27,17 +27,17 @@
 ### About me <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="32px"/>
 - 👋 My name is Minh. Currenly, I'm a student at HCMUS<br/>
 - 📚 I’m currently learning everything about Frontend and Backend technologies<br/>
-- 🎯 Future Goals: Learn more technologies - Learning to become a full-stack developer.<br/>
+- 🎯 Future Goals: Learn more technologies and become a full-stack developer.<br/>
 - 💖 My Hobbies? I spend my free time on reading mangas, watching animes, playing games.<br/>
 <!-- - 💬 Ask me about anything, I am happy to help <br/> -->
-<!-- - [Click here to see my CV](https://github.com/BinhNguyen2504)<br/> -->
+<!-- - [Click here to see my CV](https://github.com/nyanpjka)<br/> -->
 
 ---
 
 # Github Status
 
 <p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=binhnguyen2504&include_all_commits=true&count_private=true&show_icons=true&title_color=D93A7C&icon_color=F7D747&text_color=A9FEF7&bg_color=0,000000,141321&" alt="Bình Nguyễn's Github Stats">
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyanpjka&include_all_commits=true&count_private=true&show_icons=true&title_color=D93A7C&icon_color=F7D747&text_color=A9FEF7&bg_color=0,000000,141321&" alt="Bình Nguyễn's Github Stats">
 	<br>
 	<br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=nyanpjka&theme=dracula">
