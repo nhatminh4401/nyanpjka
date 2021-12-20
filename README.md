@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"Change the world by being yourself"</b></h4>
+  <h4 align="center"><b>"Change the world by being yourself."</b></h4>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%2336BCF7&lines=I'm%20MinhDoan%20Or%20You%20can%20call%20me%20nyanpjka)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%2336BCF7&lines=I'm%20Minh%20Or%20you%20can%20call%20me%20nyanpjka)](https://git.io/typing-svg)
 
 ---
 
