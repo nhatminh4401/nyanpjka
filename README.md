@@ -43,7 +43,7 @@
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=nyanpjka&theme=dracula">
 	<br>
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyanpjka&layout=compact&theme=dracula&langs_count=6">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyanpjka&layout=compact&theme=dracula&langs_count=10">
 	<br>
 	<br>
 	<img src="https://activity-graph.herokuapp.com/graph?username=nyanpjka&theme=react-dark&hide_border=true">
